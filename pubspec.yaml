@@ -1,0 +1,25 @@
+name: sparkline_lite
+description: "A tiny sparkline line chart for Flutter dashboards and tables, with smooth curves, area fill, last-point marker and min/max highlights."
+version: 0.1.0
+homepage: https://github.com/senkop/sparkline_lite
+repository: https://github.com/senkop/sparkline_lite
+issue_tracker: https://github.com/senkop/sparkline_lite/issues
+topics:
+  - chart
+  - sparkline
+  - dashboard
+  - widget
+  - graph
+
+environment:
+  sdk: ^3.5.0
+  flutter: ">=3.24.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
